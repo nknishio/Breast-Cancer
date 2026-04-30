@@ -38,4 +38,4 @@ Finally, the impact of dataset balance on classification performance is examined
 
 **F. Publication**
 
-[2024 IEEE International Conference on Future Machine Learning and Data Science](https://www.fmlds.org/AcceptedPapers.php)
+IEEE Published Paper: [Link](https://doi.org/10.1109/FMLDS63805.2024.00075)
