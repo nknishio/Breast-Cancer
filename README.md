@@ -1,12 +1,12 @@
 # Automatic Breast Cancer Classification 
 
-Paper: [IEEE Link](https://ieeexplore.ieee.org/document/10874103)
+IEEE Published Paper: [Link](https://doi.org/10.1109/FMLDS63805.2024.00075)
 
-Slides: [pdf](https://github.com/kneshio/Breast-Cancer/blob/main/Breast%20Cancer%20Slides%20FMLDS2024.pdf)
+Conference Slides: [pdf](https://github.com/kneshio/Breast-Cancer/blob/main/Breast%20Cancer%20Slides%20FMLDS2024.pdf)
 
 This study leverages the pre-trained ResNet50 and VGG19 models for detecting breast cancer in histopathological images from the BreakHis dataset. 
 
-**A.	BreakHist Dataset**
+**A.	BreakHis Dataset**
 
 BreakHis dataset used in this study consists of 7,909 microscopic images of breast tumor tissue collected from 82 patients at various magnification factors, 40×, 100×, 200× and 400×. The dataset is divided into 8 tumor types. Four types of benign breast tumors are adenosis (A), fibroadenoma (F), phyllodes tumor (PT), and tubular adenoma (TA); and four types of malignant tumors (breast cancer) are ductal carcinoma (DC), lobular carcinoma (LC), mucinous carcinoma (MC) and papillary carcinoma (PC). 
 
